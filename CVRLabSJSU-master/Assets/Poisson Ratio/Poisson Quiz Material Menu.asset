@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4bbbe99d9c881442a38e270fe2bb793, type: 3}
+  m_Name: Poisson Quiz Material Menu
+  m_EditorClassIdentifier: 
+  Buttons:
+  - Id: BtnPolymer
+    Class: TCQuizOption
+    Text: Polymer
+    Checked: 0
+    Children: []
+  - Id: 
+    Class: 
+    Text: 
+    Checked: 0
+    Children: []
+  - Id: BtnMetal
+    Class: TCQuizOption
+    Text: Metal
+    Checked: 0
+    Children: []
+  - Id: 
+    Class: 
+    Text: 
+    Checked: 0
+    Children: []
+  - Id: 
+    Class: 
+    Text: 
+    Checked: 0
+    Children: []
+  - Id: BtnCeramic
+    Class: TCQuizOption
+    Text: Ceramic
+    Checked: 0
+    Children: []

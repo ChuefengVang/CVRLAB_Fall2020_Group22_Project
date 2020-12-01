@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rightHand
+  - leftHand
+  - Paper
+  - Fire
+  - pointer
+  - material
+  - LCD Renderer
+  - LCD Canvas
+  - Camera Rig
+  - Deform Example
+  - projectile
+  - Chapter Select Panel
+  - LCD
+  - Single Test Tensile Graph
+  - Multi Test Tensile Graph
+  - Global Lighting
+  - Quiz Controller
+  - FxTemporaire
+  - TeleportIgnore
+  - BrokenTensile
+  - BrokenTensile2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Physical Support
+  - Plot Renderer
+  - Diagrams
+  - Specimen
+  - Bumper
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Touch Menu
+    uniqueID: 1768485553
+    locked: 0
