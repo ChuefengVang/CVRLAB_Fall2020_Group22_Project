@@ -29,4 +29,11 @@ All TODO comments can be ignore.
 Link to Project Build: https://github.com/ChuefengVang/CVRLAB_Fall2020_Group22_Project
 
 # Code Structure
-The code structured used for the entirety of the project was based on Polymorphism and Mutex. The use of polymorphism is to allow each object to inherit properties from others and/or access such properties. Mutex was heavily used to allow access to the object's properties inside of the classes. This gives flexibility for objects to access or change such property when needed. It also provides security in which outside users cannot change the property within. 
+The code structured used for the entirety of the project was based on Polymorphism and Mutex. The use of polymorphism is to allow each object to inherit properties from others and/or access such properties. Mutex was heavily used to allow access to the object's properties inside of the classes. This gives flexibility for objects to access or change such property when needed. It also provides security in which outside users cannot change the property within.
+
+# References and Acknowledgment
+
+Thank you to Dr. Ozgur Keles for giving us the opportunity to work on this project, the original build can be found here: 
+https://github.com/Apelsin/CVRLabSJSU
+
+
